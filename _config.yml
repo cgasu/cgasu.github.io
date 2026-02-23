@@ -144,6 +144,8 @@ exclude:
   - package.json*
   - Rakefile
   - README
+  - AGENTS.md
+  - CONTRIBUTING.md
   - tmp
   - vendor
 keep_files:
